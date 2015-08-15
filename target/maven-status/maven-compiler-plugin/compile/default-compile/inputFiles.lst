@@ -1,0 +1,14 @@
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/view/CatalogController.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/entity/Sex.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/view/ProductController.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/view/SexController.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/view/CustomerController.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/entity/Catalog.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/entity/Product.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/bean/CatalogFacade.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/view/util/JsfUtil.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/bean/ProductFacade.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/bean/SexFacade.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/bean/CustomerFacade.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/entity/Customer.java
+/Users/first/NetBeansProjects/register/register/src/main/java/com/firstcorp/bean/AbstractFacade.java
